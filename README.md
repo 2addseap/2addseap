@@ -57,6 +57,9 @@ class SoftwareDeveloper:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
 ---
 
@@ -67,6 +70,9 @@ class SoftwareDeveloper:
 | 🎫 **[TokTickIT](https://github.com/2addseap/toktickit)** | IT service desk web app for handling account/access, hardware, software, and network requests, with automated frontend and backend tests | React, TypeScript, Node.js, Express, PostgreSQL, Prisma |
 | 🏖️ **[Pool Villa Booking System](https://github.com/2addseap/FinalProject2)** | Terminal-based booking system: customers search, favorite, book, and cancel with refund logic; managers manage listings and calendar availability. Built in a team of 3; I built the customer features. | C, CSV file storage |
 | 🌐 **[HTML Portfolio](https://github.com/2addseap/kawinpob_3403)** | Personal portfolio page built as a university web course exercise | HTML, CSS |
+| ❤️ **Cardiovascular Disease Risk Prediction** | Cleaned 70,000 health records and compared Logistic Regression, Decision Tree, and tuned Random Forest (73.3% accuracy, AUC 0.80) | Python, pandas, scikit-learn, seaborn |
+| 🐘 **Hive E-commerce Analysis** | Loaded 10 CSV files into HDFS, built Hive external tables, and created a joined product-discount table with 74,516 rows | Hadoop HDFS, Hive, HiveQL |
+| ⚡ **Spark Log & Housing Analysis** | Parsed application logs with regex, aggregated counts and execution-time statistics, and analyzed housing prices by zoning with Spark DataFrames | Apache Spark, Python |
 
 ---
 
