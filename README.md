@@ -1,8 +1,8 @@
 # Hi there 👋
 
 <!-- ============================================================
-  วิธีใช้: ข้อความในกรอบ <!-- --> แบบนี้จะไม่แสดงบนหน้าโปรไฟล์ GitHub
-  ให้หาคำว่า "แก้ตรงนี้" แล้วเปลี่ยนเป็นข้อมูลของคุณ (มีทั้งหมด 6 จุด)
+<img width="2560" height="1440" alt="Black Blue White Business Digital Marketing Professional Youtube Channel Art Banner (1)" src="https://github.com/user-attachments/assets/9e449f7e-634b-49cb-b935-ee6824eaf32b" />
+
   ============================================================ -->
 
 <div align="center">
