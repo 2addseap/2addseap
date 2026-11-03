@@ -1,9 +1,8 @@
 # Hi there 👋
 
-<!-- ============================================================
-<img width="2560" height="1440" alt="Black Blue White Business Digital Marketing Professional Youtube Channel Art Banner (1)" src="https://github.com/user-attachments/assets/9e449f7e-634b-49cb-b935-ee6824eaf32b" />
-
-  ============================================================ -->
+<div align="center">
+  <img src="Banner.png" alt="Kawinpob Amnuaywittayakul" width="100%">
+</div>
 
 <div align="center">
 
